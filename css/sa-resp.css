@@ -1,0 +1,137 @@
+@charset "utf-8";
+/* CSS Document */
+@media screen and (max-width:1501px) {
+	.back-banner { width:100%;}
+}
+@media screen and (max-width:1301px) {
+	
+	.footer-crm-sub{ width:100%;}
+	.header-crm-sub{width:100%;}
+	.menu-crm-sub{ width:100%;}
+	.crm-form-sub{ width:100%;}
+	
+}
+@media screen and (max-width:1200px) {
+	.crm-text {
+    font-size: 24px;
+    line-height: 25px;
+ 
+}
+}
+@media screen and (max-width: 1000px){
+.form-sub {
+    width: 100%;}
+
+.crm-descr {
+ 
+
+}
+.form-audio {
+ 
+
+}
+.form-sub form input {    width: 100%;}
+
+}
+
+@media screen and (max-width: 979px){
+	.spar_logo {font-size: 19px;
+    padding: 12px 0px 6px 12px;}
+	.logo img {
+    width: 32px;
+    height: 32px;
+}
+.form-audio {
+ 
+    margin: 20px auto 0px auto;
+}
+.button-main a {
+    padding: 8px 16px;
+    font-size: 12px;}
+	.button-main { top:16px;}
+.crm-text {    padding: 220px 0px 0px 22px;
+}
+}
+@media screen and (max-width: 856px){
+.crm-text {
+  	    padding: 190px 0px 0px 22px;
+	    font-size: 20px;
+    line-height: 21px;
+}
+.form-text {font-size: 15px;  padding: 4px 0px;}
+.crm-descr { font-size:13px;}
+.form-sub form label {
+    font-size: 13px;}
+	.form-img {
+    width: 44px;
+    height: 56px;top: -28px;}
+.form-text {    width: 126px; font-size:13px;    text-align: right;}
+}
+@media screen and (max-width: 767px){
+.crm-text {
+    padding: 165px 0px 0px 22px;
+    font-size: 17px;
+    line-height: 16px;
+}
+
+}
+@media screen and (max-width: 727px){
+.crm-descr {
+    width: 100%;}
+.crm-descr img {
+    width: 100%;
+}
+}
+
+@media screen and (max-width: 630px){
+.crm-text {
+    padding: 150px 0px 0px 22px;}
+.foot-text1 {
+    font-size: 12px;}
+.foot-text2 {
+    font-size: 12px;}
+.spar_logo {
+    font-size: 16px;}
+}
+@media screen and (max-width: 598px){
+.crm-text {
+        padding: 114px 0px 0px 22px; width: 220px;}
+.form-text {
+    font-size: 13px;}
+}
+@media screen and (max-width: 478px){
+
+.foot-text1 {
+    font-size: 10px; padding:8px 0px 0px 0px;}
+.foot-text2 {
+    font-size: 10px; padding:0px 0px 8px 0px;}
+.logo img {
+    width: 30px;
+    height: 30px;
+}
+.form-sub form label {
+    font-size: 12px;}
+.crm-text {
+    padding: 92px 0px 0px 22px;
+	font-size: 16px;
+    line-height: 16px;
+}
+.form-audio {
+    width: 100%; }
+}
+@media screen and (max-width: 375px){
+.crm-text {
+    padding: 64px 0px 0px 22px;
+    font-size: 12px;
+    line-height: 14px;
+}
+.spar_logo {
+    font-size: 16px;}
+.logo img {
+    width: 24px;
+    height: 24px;
+}
+}
+@media screen and (max-width: 340px){
+
+}
